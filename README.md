@@ -22,7 +22,7 @@ To use this library:
 
 
 ## Documentation
-The library is that small, so it's possible to fit documentation there.
+The library is that small, so it's possible to fit documentation there:
 
 ```c
 // flags for window scaling, use it in mio_window

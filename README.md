@@ -4,7 +4,7 @@
 MIOWIN is a minimal IO library for Windows.
 The goal of this project is to provide a simple way to use input/output functions in Windows.
 The main advantage of this library is it's small size.
-Smallest `.exe` I've been able to make is 17KB (using `upx` tool: 11KB). 
+Smallest `.exe` I've been able to make is 8KB. 
 
 The whole documentation is in this readme file.
 
